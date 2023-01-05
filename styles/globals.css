@@ -28,3 +28,11 @@ ul{
     text-align: left;
 
 }
+
+
+li{
+    padding:5px;
+    display: inline-block;
+    background-color: bisque;
+}
+
